@@ -5,4 +5,4 @@
 * 文字探勘作業流程圖.png
 
 2.挑一段程式運行並加註解再傳到github
-- [新頭殼新聞爬蟲](https://github.com/MiccWan/Political-News-Analysis/blob/master/crawler/new_talk_crawler.ipynb)
+- [新頭殼新聞爬蟲](https://github.com/dhdman/political-news-hw0/blob/master/crawler/liberty_times_crawler.ipynb)
