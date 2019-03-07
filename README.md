@@ -9,4 +9,5 @@
 
 3.利用文字雲做了兩岸關係的圖
 - [finaldemo文字雲](https://github.com/dhdman/political-news-hw0/blob/master/final_demo/final_report.ipynb)
+* 兩岸關係文字圖.PNG
 
